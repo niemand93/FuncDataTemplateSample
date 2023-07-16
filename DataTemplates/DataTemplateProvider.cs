@@ -6,6 +6,7 @@ using Avalonia.Data;
 using Avalonia.Media;
 using FuncDataTemplateSample.Models;
 
+// чего тут происходит?
 namespace FuncDataTemplateSample.DataTemplates
 {
     // Path-Data taken from here: https://icons.getbootstrap.com

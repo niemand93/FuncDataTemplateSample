@@ -1,5 +1,6 @@
 ﻿namespace FuncDataTemplateSample.Models
 {
+    // енто тут зачем?
     public class Person
     {
         /// <summary>
